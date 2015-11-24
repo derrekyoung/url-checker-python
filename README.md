@@ -2,7 +2,7 @@
 Python scripts to check URLs
 
 ## Usage
-python generic-url-checker.py
+`python generic-url-checker.py`
 
 Modify the list of URLs at the top of the script to hit the ones you care about.
 
