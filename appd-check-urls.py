@@ -59,8 +59,8 @@ def getUrls(controllers, eums, events):
 
     controller_urls = [
         'http://'+replace+':8090/controller/login.html'
-        ,'https://'+replace+':8181/controller/'
-        ,'https://'+replace+':8181/controller/login.html'
+        #,'https://'+replace+':8181/controller/'
+        #,'https://'+replace+':8181/controller/login.html'
         ,'http://'+replace+':9080/_ping'
         ,'http://'+replace+':9081/healthcheck?pretty=true'
     ]
